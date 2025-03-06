@@ -16,7 +16,7 @@
 - Возможность начать новую игру после завершения.
 
 ### Скриншот
-<img src="Krestiki/Krestiki.PNG" alt="Крестики-нолики">
+<img src="practic/Krestiki.PNG" alt="Крестики-нолики">
 
 
 ## Мини-игра №4: "Битва с монстром"
@@ -33,4 +33,4 @@
 
 ### Скриншот
 
-<img src="monster/monster.PNG" alt="Битва с монстром">
+<img src="practic/monster.PNG" alt="Битва с монстром">
